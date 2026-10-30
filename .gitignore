@@ -1,0 +1,7 @@
+build/
+.DS_Store
+# compiled helpers and tools
+icon/concepts-bin
+tools/rokid-hid
+tools/rokid-mode
+tools/rokid-probe
