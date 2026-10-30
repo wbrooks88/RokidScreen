@@ -53,3 +53,8 @@ interface at about 430 Hz: device time (ns), accelerometer (m/s²), gyro
 (rad/s) and magnetometer as float32 in OpenXR axes, the layout Monado's
 Rokid driver uses. The glasses' own button changes brightness and display
 mode and isn't reported to the Mac.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Rokid and Rokid Max are trademarks of Rokid
+Corporation; this project isn't affiliated with Rokid.
